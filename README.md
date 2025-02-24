@@ -32,7 +32,7 @@ As shown in the image below, the F1 Score demonstrates excellent performance, re
 ---
 
 ### After Object Detection
-
+We aimed to define a region at a specific pixel location using a particular RGB value and to apply this as the lower boundary of the object detection bounding box.
 <table>
   <tr>
     <td><img src="./image/Seg_with_rgb.png" alt="이미지 2" width="1200"></td>
