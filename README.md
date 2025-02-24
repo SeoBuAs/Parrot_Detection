@@ -6,13 +6,13 @@ The market for pet birds in the United States is continuously growing, which in 
 Against this backdrop, research has been conducted to apply object detection technology to track the real-time location of parrots within their cages. This approach could later enable the precise monitoring of the parrot's behavioral patterns and positional changes, allowing for early recognition and intervention when stress occurs. Additionally, this research could serve as a stepping stone towards the development of smart birdcages.
 
 ---
-### Learning
+### Training
 Data : We used LabelImg to manually annotate the bounding boxes of the parrots, utilizing approximately 150 images.
 
 Model: YOLOv5su (optimized for embedding on small devices)
 
 ---
-### Learning Results
+### Training Results
 
 As shown in the image below, the F1 Score demonstrates excellent performance, reaching a perfect score of 1 at a confidence level of 0.802, with the Confusion Matrix reinforcing this trend. Furthermore, the final image indicates that the loss has sufficiently converged, and that mAP50, Precision, and Recall all exhibit very high performance.
 <table>
@@ -23,7 +23,21 @@ As shown in the image below, the F1 Score demonstrates excellent performance, re
 </table>
 <table>
   <tr>
-    <td><img src="./image/results.png" alt="이미지 2" width="1200"></td>
+    <td><img src="./image/results.png" alt="이미지 2" width="600"></td>
+    <td><img src="./image/val_batch0_pred.jpg" alt="이미지 2" width="600"></td>
   </tr>
 </table>
+
+
 ---
+
+### After Object Detection
+
+<table>
+  <tr>
+    <td><img src="./image/Seg_with_rgb.png" alt="이미지 2" width="1200"></td>
+  </tr>
+</table>
+
+---
+### Final
