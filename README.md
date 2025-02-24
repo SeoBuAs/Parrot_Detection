@@ -8,6 +8,7 @@ Against this backdrop, research has been conducted to apply object detection tec
 ---
 ### Learning
 Data : We used LabelImg to manually annotate the bounding boxes of the parrots, utilizing approximately 150 images.
+
 Model: YOLOv5su (optimized for embedding on small devices)
 
 ---
