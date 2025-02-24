@@ -7,4 +7,4 @@ Against this backdrop, research has been conducted to apply object detection tec
 
 ---
 ### Learning Results
-![대체 텍스트](./images/F1_curve.png)
+![대체 텍스트](./image/F1_curve.png)
