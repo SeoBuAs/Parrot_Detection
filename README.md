@@ -7,6 +7,8 @@ Against this backdrop, research has been conducted to apply object detection tec
 
 ---
 ### Learning Results
+
+As shown in the image below, the F1 Score demonstrates excellent performance, reaching a perfect score of 1 at a confidence level of 0.802, with the Confusion Matrix reinforcing this trend. Furthermore, the final image indicates that the loss has sufficiently converged, and that mAP50, Precision, and Recall all exhibit very high performance.
 <table>
   <tr>
     <td><img src="./image/F1_curve.png" alt="이미지 1" width="600"></td>
