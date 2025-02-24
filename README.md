@@ -8,3 +8,10 @@ Against this backdrop, research has been conducted to apply object detection tec
 ---
 ### Learning Results
 ![대체 텍스트](./image/F1_curve.png)
+<table>
+  <tr>
+    <td><img src="./image/F1_curve.png" alt="이미지 1" width="200"></td>
+    <td><img src="./image/results.png" alt="이미지 2" width="200"></td>
+    <td><img src="./image/confusion_matrix_normalized.png" alt="이미지 3" width="200"></td>
+  </tr>
+</table>
