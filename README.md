@@ -41,3 +41,9 @@ We aimed to define a region at a specific pixel location using a particular RGB 
 
 ---
 ### Final
+
+<table>
+  <tr>
+    <td><img src="./image/example_results.png" alt="이미지 2" width="1200"></td>
+  </tr>
+</table>
