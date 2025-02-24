@@ -6,7 +6,7 @@ The market for pet birds in the United States is continuously growing, which in 
 Against this backdrop, research has been conducted to apply object detection technology to track the real-time location of parrots within their cages. This approach could later enable the precise monitoring of the parrot's behavioral patterns and positional changes, allowing for early recognition and intervention when stress occurs. Additionally, this research could serve as a stepping stone towards the development of smart birdcages.
 
 ---
-### Training
+### Training
 Data : We used LabelImg to manually annotate the bounding boxes of the parrots, utilizing approximately 150 images.
 
 Model: YOLOv5su (optimized for embedding on small devices)
