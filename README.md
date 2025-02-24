@@ -9,8 +9,12 @@ Against this backdrop, research has been conducted to apply object detection tec
 ### Learning Results
 <table>
   <tr>
-    <td><img src="./image/F1_curve.png" alt="이미지 1" width="400"></td>
-    <td><img src="./image/results.png" alt="이미지 2" width="400"></td>
-    <td><img src="./image/confusion_matrix_normalized.png" alt="이미지 3" width="400"></td>
+    <td><img src="./image/F1_curve.png" alt="이미지 1" width="600"></td>
+    <td><img src="./image/confusion_matrix_normalized.png" alt="이미지 3" width="600"></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td><img src="./image/results.png" alt="이미지 2" width="1200"></td>
   </tr>
 </table>
